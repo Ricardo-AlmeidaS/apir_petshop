@@ -8,13 +8,13 @@ import org.springframework.web.bind.annotation.RestController;
 @RequestMapping("/petshop")
 public class CachorroController {
 
-    @GetMapping("/cachorro")
-    public String cachorro() {
-        return "Au-au";
-    }
-
-    @GetMapping("/auau")
-    public String auau() {
-        return "Cachorro";
-    }
+//    @GetMapping("/cachorro")
+//    public String cachorro() {
+//        return "Au-au";
+//    }
+//
+//    @GetMapping("/auau")
+//    public String auau() {
+//        return "Cachorro";
+//    }
 }

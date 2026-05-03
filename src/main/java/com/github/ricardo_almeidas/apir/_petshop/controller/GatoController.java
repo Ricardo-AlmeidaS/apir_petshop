@@ -8,8 +8,8 @@ import org.springframework.web.bind.annotation.RestController;
 @RequestMapping("/petshop")
 public class GatoController {
 
-    @GetMapping("/gato")
-    public String cachorro() {
-        return "Miau";
-    }
+//    @GetMapping("/gato")
+//    public String cachorro() {
+//        return "Miau";
+//    }
 }
