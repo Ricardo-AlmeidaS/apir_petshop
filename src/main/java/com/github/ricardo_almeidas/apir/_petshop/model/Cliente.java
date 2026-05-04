@@ -1,4 +1,4 @@
-package com.github.ricardo_almeidas.apir._petshop.entity;
+package com.github.ricardo_almeidas.apir._petshop.model;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
