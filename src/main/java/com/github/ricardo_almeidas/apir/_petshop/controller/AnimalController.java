@@ -1,7 +1,9 @@
 package com.github.ricardo_almeidas.apir._petshop.controller;
 
 import com.github.ricardo_almeidas.apir._petshop.entity.Animal;
+import com.github.ricardo_almeidas.apir._petshop.entity.Cliente;
 import com.github.ricardo_almeidas.apir._petshop.repository.AnimalRepository;
+import com.github.ricardo_almeidas.apir._petshop.repository.ClienteRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

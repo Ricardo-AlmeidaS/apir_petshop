@@ -18,6 +18,15 @@ public class Animal {
     @Column(name = "especie")
     private String especie;
 
+    @Column(name = "nome")
+    private String nome;
+
+    @Column(name = "cor")
+    private String cor;
+
     @Column(name = "som")
     private String som;
+
+    @Column(name = "idade")
+    private Integer idade;
 }
